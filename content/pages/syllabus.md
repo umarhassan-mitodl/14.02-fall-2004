@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,7 +32,7 @@ As we receive more information on class enrollment, we may need to make changes 
 Readings
 --------
 
-The text for the course is the third edition of {{% resource_link "1f3cd496-a6cf-41c1-8391-59175ecb9a91" "Macroeconomics" %}}, by Olivier Blanchard. Please get the last edition. In addition, it is also suggested that students get into the habit of browsing the daily newspaper {{% resource_link "cfa3d05e-67e6-405a-92f6-b671d3b22d3a" "The Wall Street Journal" %}} or {{% resource_link "ede132ee-bc0b-452c-8b1a-0cc48385f535" "The Financial Times" %}}, or the weekly magazine {{% resource_link "11ccb8fc-2e64-4396-8c30-994094842b2c" "The Economist" %}} at least a couple of times a month; all offer good (and well-written) coverage of economic events, and will provide some context for the course.
+The text for the course is the third edition of [Macroeconomics](https://www.pearson.com/store/p/macroeconomics-a-european-perspective/P100000998876/9781292085678), by Olivier Blanchard. Please get the last edition. In addition, it is also suggested that students get into the habit of browsing the daily newspaper [The Wall Street Journal](http://online.wsj.com/public/us) or [The Financial Times](http://news.ft.com/home/asia), or the weekly magazine [The Economist](http://www.economist.com/) at least a couple of times a month; all offer good (and well-written) coverage of economic events, and will provide some context for the course.
 
 Blanchard, Olivier. _Macroeconomics_. 3rd ed. Upper Saddle River, N.J.: Prentice Hall, 2003. ISBN: 0130671002.
 

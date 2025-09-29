@@ -4,6 +4,8 @@ description: Assigned homework problems.
 file: /courses/14-02-principles-of-macroeconomics-fall-2004/80bfe4cb6bdb122bd816384fd0ef7863_ps3.pdf
 file_size: 21935
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

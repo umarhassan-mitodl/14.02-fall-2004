@@ -4,6 +4,8 @@ description: Slides from the lecture presentation.
 file: /courses/14-02-principles-of-macroeconomics-fall-2004/31c56be56b3d8c9fecb106950f8cb10c_lecture8.pdf
 file_size: 20812
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
