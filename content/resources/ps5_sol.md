@@ -4,8 +4,6 @@ description: Solutions for the assigned problems.
 file: /courses/14-02-principles-of-macroeconomics-fall-2004/f93953aa1fd487b84e218475e9bce5d1_ps5_sol.pdf
 file_size: 98519
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
