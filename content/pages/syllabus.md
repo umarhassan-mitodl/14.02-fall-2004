@@ -30,7 +30,7 @@ As we receive more information on class enrollment, we may need to make changes 
 Readings
 --------
 
-The text for the course is the third edition of [Macroeconomics](https://www.pearson.com/store/p/macroeconomics-a-european-perspective/P100000998876/9781292085678), by Olivier Blanchard. Please get the last edition. In addition, it is also suggested that students get into the habit of browsing the daily newspaper [The Wall Street Journal](http://online.wsj.com/public/us) or [The Financial Times](http://news.ft.com/home/asia), or the weekly magazine [The Economist](http://www.economist.com/) at least a couple of times a month; all offer good (and well-written) coverage of economic events, and will provide some context for the course.
+The text for the course is the third edition of {{% resource_link "dd49af5d-d2c9-4030-b0fb-49b2e3c409ed" "Macroeconomics" %}}, by Olivier Blanchard. Please get the last edition. In addition, it is also suggested that students get into the habit of browsing the daily newspaper {{% resource_link "694465ad-093a-4fbf-bce4-e1be3786785c" "The Wall Street Journal" %}} or {{% resource_link "2ef00501-0f5b-417b-8388-b89accbd0849" "The Financial Times" %}}, or the weekly magazine {{% resource_link "bdfe71ae-69ff-4ef1-b2a7-f51dab3a4e57" "The Economist" %}} at least a couple of times a month; all offer good (and well-written) coverage of economic events, and will provide some context for the course.
 
 Blanchard, Olivier. _Macroeconomics_. 3rd ed. Upper Saddle River, N.J.: Prentice Hall, 2003. ISBN: 0130671002.
 

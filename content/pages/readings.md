@@ -10,9 +10,9 @@ uid: 34e21821-527b-5d61-3cd8-48131a2e3c3d
 
 Readings in the table below refer to the course text:
 
-Blanchard, Olivier. [_Macroeconomics_](http://vig.prenhall.com/catalog/academic/product/1,4096,0130671002,00.html). 3rd ed. Upper Saddle River, N.J.: Prentice Hall, 2003. ISBN: 0130671002.
+Blanchard, Olivier. {{% resource_link "2c48bc99-8c8b-4fc8-bbcc-7cc1e6f45f1d" "_Macroeconomics_" %}}. 3rd ed. Upper Saddle River, N.J.: Prentice Hall, 2003. ISBN: 0130671002.
 
-It is also suggested that students get into the habit of browsing the daily newspaper [The Wall Street Journal](http://www.wsj.com/) or [The Financial Times](http://www.ft.com/) or the weekly magazine [The Economist](http://www.economist.com/) at least a couple of times a month; all offer good (and well-written) coverage of economic events, and will provide some context for the course.
+It is also suggested that students get into the habit of browsing the daily newspaper {{% resource_link "babcbcae-76cc-4e98-8b3c-82a12b078710" "The Wall Street Journal" %}} or {{% resource_link "346e29a8-cff5-47ae-97ca-c384a453be48" "The Financial Times" %}} or the weekly magazine {{% resource_link "bdfe71ae-69ff-4ef1-b2a7-f51dab3a4e57" "The Economist" %}} at least a couple of times a month; all offer good (and well-written) coverage of economic events, and will provide some context for the course.
 
 {{< tableopen >}}
 {{< theadopen >}}
